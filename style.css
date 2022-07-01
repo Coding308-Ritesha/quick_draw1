@@ -1,0 +1,31 @@
+body
+{
+    background-color: #a9f04b;
+}
+
+#score
+
+{
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#time
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 20px;
+}
+
+#draw
+{
+    color: red;
+}
+
+#show_sketch{
+   float: right;
+}
+
+#quick_draw{
+    margin-left:70;
+}
